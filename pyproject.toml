@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "address-list"
+version = "0.1.0"
+description = "A simple address-list"
+authors = ["Andriy <AndriySydor91@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
